@@ -1,23 +1,39 @@
-# Hi there, I'm Shreya Yadav! 👋
+# 👋 Hi, I'm Shreya Yadav!
 
-I'm a passionate **React Developer** who loves building user-friendly and scalable web applications. I thrive on turning ideas into reality using modern web technologies.
+A passionate **React Developer** focused on building intuitive, performant, and scalable web applications.
+
+---
 
 ## 🚀 Tech Stack
-- **Frontend:** ReactJS, JavaScript, TailwindCSS, Redux
-- **Backend & Tools:** Node.js, Firebase
+- **Frontend:** ReactJS, JavaScript, Redux Toolkit, TailwindCSS
+- **Backend & Tools:** Node.js, Firebase, Git, Vite
+
+---
 
 ## 🌟 Featured Projects
-- [Grocery App](https://github.com/shreyay4060/grocery): A seamless online grocery shopping experience.
-- [Food Management](https://github.com/shreyay4060/food-mangement): Efficient food tracking and management system.
+- 🔹 [Grocery App](https://github.com/shreyay4060/grocery)  
+  Modern UI for seamless online grocery shopping.
+- 🔹 [Food Management](https://github.com/shreyay4060/food-mangement)  
+  Smart inventory and food tracking system.
+- 🔹 [Contact List](https://github.com/shreyay4060/ContactList)  
+  Real-time contact manager using Firebase and Redux.
 
-## 📫 Connect with Me
+---
+
+## 🎯 What I Love
+- Clean and responsive UI design
+- Writing maintainable, reusable code
+- Solving real-world problems with web tech
+- Constantly learning and building cool stuff
+
+---
+
+## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/shreya-yadav-53286028b)
+- [GitHub](https://github.com/shreyay4060)
 
-## 🎵 More About Me
-- I love listening to music
-- Enjoy playing football 🏈
-- Passionate about cycling 🚴
+---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
-Thanks for stopping by! Feel free to check out my projects or connect with me.
+Thanks for visiting my profile! 🚀
