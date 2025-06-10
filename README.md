@@ -49,7 +49,7 @@ Generated GitHub Profile README
 
 | Project                                                          | Description                                     | Technologies                 |
 | ---------------------------------------------------------------- | ----------------------------------------------- | ---------------------------- |
-| [Grocery App](https://github.com/shreyay4060/ecommerce/tree/main/vite-project)            | Modern UI for EasyShop.        | React, TailwindCSS,contextAPI , Firebase |
+| [EasyShop](https://github.com/shreyay4060/ecommerce/tree/main/vite-project)            | Modern UI for EasyShop.        | React, TailwindCSS,contextAPI , Firebase |
 | [Grocery App](https://github.com/shreyay4060/grocery)            | Modern UI for seamless grocery shopping.        | React, TailwindCSS, Firebase |
 | [Food Management](https://github.com/shreyay4060/food-mangement) | Smart dashboard for managing food inventory.    | React, Chart.js, Firebase    |
 | [ContactList](https://github.com/shreyay4060/ContactList)        | Real-time contact manager with CRUD operations. | React, Redux, Firestore      |
